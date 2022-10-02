@@ -22,6 +22,7 @@ A webpage that creates a schema to help you gradually quit vaping or smoking. Th
 
 
 
+![image](https://user-images.githubusercontent.com/91410754/193435014-2bdb99bd-1d4f-4371-aa82-8113b199f3db.png)
 
 
 
