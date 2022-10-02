@@ -15,7 +15,8 @@ Problem statement:  SOCIAL ISSUES THESIS: SMOKING!
 # QuitSmo
 A webpage that creates a schema to help you gradually quit vaping or smoking. The user fills out a form. Based on that data a schema is generated and displayed.
 
-![image](https://user-images.githubusercontent.com/91410754/193424591-af4f37f9-ca79-4e69-a8fd-ac23a31afb39.png)
+![image](https://user-images.githubusercontent.com/91410754/193434842-110554ec-f20b-4656-a4bd-68142a631c69.png)
+
 
 
 
